@@ -71,9 +71,7 @@
         <plugin>
           <artifactId>maven-deploy-plugin</artifactId>
           <version>2.8.2</version>
-                        <url>http://35.78.88.10:8080/manager/text</url>
-                        <server>tomcatserver</server>
-                        <path>/ownprojectfree</path>
+                       
         </plugin>
       </plugins>
     </pluginManagement>
